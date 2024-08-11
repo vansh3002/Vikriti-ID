@@ -1,0 +1,9 @@
+numpy
+tensorflow>=2.4
+keras>=2.4.3
+matplotlib
+Pillow
+scipy
+scikit-image
+opencv-python
+tensorflow-addons
