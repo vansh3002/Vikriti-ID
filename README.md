@@ -10,7 +10,7 @@
 - **Deep Learning Integration**: A deep neural network, inspired by [13], was trained on both Vikriti-ID generated data as well as publicly available data, demonstrating the usability and effectiveness of the synthetic data.
 
 ## Project Structure
-
+```
 VIKRIT-ID/
 ├── Code/
 │ ├── Loss/
@@ -28,6 +28,7 @@ VIKRIT-ID/
 ├── encoder.h5
 ├── processed_data.npz
 └── requirements.txt
+```
 
 
 - **Loss/**: Contains the loss function implementations.
